@@ -1,0 +1,4 @@
+#Sun Jan 01 12:24:26 WIB 2023
+base.0=/Users/davidbahtiar/Development/Mobile/bwa_cozy/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
